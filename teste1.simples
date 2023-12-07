@@ -1,12 +1,17 @@
-programa teste1
-    inteiro a  
+programa registro1
+def
+    inteiro a
     logico b
+fimdef c
+
+def 
+    registro c x
+    logico y
+fimdef d 
+
+inteiro x
+registro d y
+logico z
+
 inicio
-    b <- V
-    leia a
-    enquanto b faca
-        escreva a
-        a <- a + 1
-        b <- a < 10
-    fimenquanto
 fimprograma
